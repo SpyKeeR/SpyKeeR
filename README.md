@@ -27,7 +27,7 @@ Après une première carrière dans un autre domaine, j'ai décidé de faire de 
 ## 📫 Me contacter  
 
 💼 [LinkedIn](https://www.linkedin.com/in/maximechenaud)  
-📧 [Email](mailto:spykeer[at]gmail[dot]com)  
+📧 [Email](mailto:spykeer@gmail.com)  
 🚀 Toujours partant pour échanger et apprendre !  
 
 ---
