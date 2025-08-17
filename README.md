@@ -1,7 +1,7 @@
 # 👋 Hello, moi c'est SpyKeeR !
 
 🎯 **En reconversion vers les métiers des systèmes & réseaux**  
-💻 **Actuellement en formation TSSR à l'ENI | Passionné d'IT et de cybersécurité**  
+💻 **Actuellement en formation TSSR à l'ENI | Passionné d'IT, tout particulièrement d'infrastructure**  
 🚀 **Toujours curieux, toujours en quête d'apprentissage**  
 
 ---
