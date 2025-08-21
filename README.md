@@ -21,7 +21,7 @@ Après une première carrière dans un autre domaine, j'ai décidé de transform
 ## 📂 Mes dépôts principaux  
 
 - 🧪 [Labs-playground](https://github.com/SpyKeeR/Labs-playground) → Labs, exercices et challenges  
-- ⚙️ [Scripts-playground](https://github.com/SpyKeeR/Scripts-playground) → Scripts personnels et d’entraînement  
+- ⚙️ [Scripts](https://github.com/SpyKeeR/Scripts) → Scripts personnels et d’entraînement  
 - 📑 [Deliverables](https://github.com/SpyKeeR/Deliverables) → Docs, procédures et présentations de projets  
 - 🔧 [Config-files](https://github.com/SpyKeeR/Config-files) → Fichiers de configuration et exemples  
 - 📚 [Knowledge-base](https://github.com/SpyKeeR/Knowledge-base) → Notes et références techniques  
@@ -63,7 +63,7 @@ After a first career in another field, I decided to turn this passion into a pro
 ## 📂 Main repositories  
 
 - 🧪 [Labs-playground](https://github.com/SpyKeeR/Labs-playground) → Labs, exercises & challenges  
-- ⚙️ [Scripts-playground](https://github.com/SpyKeeR/Scripts-playground) → Personal & training scripts  
+- ⚙️ [Scripts](https://github.com/SpyKeeR/Scripts) → Personal & training scripts  
 - 📑 [Deliverables](https://github.com/SpyKeeR/Deliverables) → Docs, procedures & project presentations  
 - 🔧 [Config-files](https://github.com/SpyKeeR/Config-files) → Configuration files & examples  
 - 📚 [Knowledge-base](https://github.com/SpyKeeR/Knowledge-base) → Notes & technical references  
@@ -77,4 +77,4 @@ After a first career in another field, I decided to turn this passion into a pro
 🚀 Always happy to connect and learn together!  
 
 ⚡ **Fun fact**: I disassembled my first PC before I could read (and reassembled it… not that fast 😅).  
-✨ _"Learning never stops, especially in IT!"_  
+✨ _"Learning never stops, especially in IT!"_
