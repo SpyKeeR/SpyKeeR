@@ -26,7 +26,7 @@ Après une première carrière dans un autre domaine, j'ai décidé de transform
 - 🔧 [Config-files](https://github.com/SpyKeeR/Config-files) → Fichiers de configuration et exemples  
 - 📚 [Knowledge-base](https://github.com/SpyKeeR/Knowledge-base) → Notes et références techniques  
 - 📝 [Cheatsheets](https://github.com/SpyKeeR/Cheatsheets) → Aides-mémoire, commandes rapides  
-- 🖥️ [SpyKeeR](https://github.com/SpyKeeR/WAC-on-DC-ADCredSSP) → Un petit Workaround sur Windows Admin Center installé sur un DC
+- 🖥️ [WAC-on-DC-AD CredSSP](https://github.com/SpyKeeR/WAC-on-DC-ADCredSSP) → Un petit Workaround sur Windows Admin Center installé sur un DC
 
 ## 📫 Me contacter  
 
@@ -68,7 +68,7 @@ After a first career in another field, I decided to turn this passion into a pro
 - 🔧 [Config-files](https://github.com/SpyKeeR/Config-files) → Configuration files & examples  
 - 📚 [Knowledge-base](https://github.com/SpyKeeR/Knowledge-base) → Notes & technical references  
 - 📝 [Cheatsheets](https://github.com/SpyKeeR/Cheatsheets) → Quick references & command reminders  
-- 🖥️ [SpyKeeR](https://github.com/SpyKeeR/WAC-on-DC-ADCredSSP) → A small workaround for running Windows Admin Center on a DC  
+- 🖥️ [WAC-on-DC-ADCredSSP](https://github.com/SpyKeeR/WAC-on-DC-ADCredSSP) → A small workaround for running Windows Admin Center on a DC  
 
 ## 📫 Contact me  
 
