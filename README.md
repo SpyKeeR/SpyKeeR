@@ -25,7 +25,8 @@ Après une première carrière dans un autre domaine, j'ai décidé de transform
 - 📑 [Deliverables](https://github.com/SpyKeeR/Deliverables) → Docs, procédures et présentations de projets  
 - 🔧 [Config-files](https://github.com/SpyKeeR/Config-files) → Fichiers de configuration et exemples  
 - 📚 [Knowledge-base](https://github.com/SpyKeeR/Knowledge-base) → Notes et références techniques  
-- 📝 [Cheatsheets](https://github.com/SpyKeeR/Cheatsheets) → Aides-mémoire, commandes rapides  
+- 📝 [Cheatsheets](https://github.com/SpyKeeR/Cheatsheets) → Aides-mémoire, commandes rapides
+- 🃏 [Anki-Cards](https://github.com/SpyKeeR/Anki-Cards) → Cartes de révision Anki issues de diverses sources
 - 🖥️ [WAC-on-DC-AD CredSSP](https://github.com/SpyKeeR/WAC-on-DC-ADCredSSP) → Un petit Workaround sur Windows Admin Center installé sur un DC
 
 ## 📫 Me contacter  
