@@ -69,7 +69,7 @@ After a first career in another field, I decided to turn this passion into a pro
 - 🔧 [Config-files](https://github.com/SpyKeeR/Config-files) → Configuration files & examples  
 - 📚 [Knowledge-base](https://github.com/SpyKeeR/Knowledge-base) → Notes & technical references
 - 📝 [Cheatsheets](https://github.com/SpyKeeR/Cheatsheets) → Quick references & command reminders
-- 🃏 [Anki-Cards](https://github.com/SpyKeeR/Anki-Cards) → Anki flashcards created from my training, self-learning, and personal practice
+- 🃏 [Anki-Cards](https://github.com/SpyKeeR/Anki-Cards) → Anki flashcards that i use from various sources
 - 🖥️ [WAC-on-DC-ADCredSSP](https://github.com/SpyKeeR/WAC-on-DC-ADCredSSP) → A small workaround for running Windows Admin Center on a DC  
 
 ## 📫 Contact me  
