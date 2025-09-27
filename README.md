@@ -28,6 +28,7 @@ Après une première carrière dans un autre domaine, j'ai décidé de transform
 - 📝 [Cheatsheets](https://github.com/SpyKeeR/Cheatsheets) → Aides-mémoire, commandes rapides
 - 🃏 [Anki-Cards](https://github.com/SpyKeeR/Anki-Cards) → Cartes de révision Anki issues de diverses sources
 - 🖥️ [WAC-on-DC-AD CredSSP](https://github.com/SpyKeeR/WAC-on-DC-ADCredSSP) → Un petit Workaround sur Windows Admin Center installé sur un DC
+- 🚀 [Win11-AutoDeploy-Local](https://github.com/SpyKeeR/Win11-AutoDeploy-Local) → Solution de déploiement automatisé Windows 11 local sans infrastructure distribuée
 
 ## 📫 Me contacter  
 
@@ -70,7 +71,8 @@ After a first career in another field, I decided to turn this passion into a pro
 - 📚 [Knowledge-base](https://github.com/SpyKeeR/Knowledge-base) → Notes & technical references
 - 📝 [Cheatsheets](https://github.com/SpyKeeR/Cheatsheets) → Quick references & command reminders
 - 🃏 [Anki-Cards](https://github.com/SpyKeeR/Anki-Cards) → Anki flashcards that i use from various sources
-- 🖥️ [WAC-on-DC-ADCredSSP](https://github.com/SpyKeeR/WAC-on-DC-ADCredSSP) → A small workaround for running Windows Admin Center on a DC  
+- 🖥️ [WAC-on-DC-ADCredSSP](https://github.com/SpyKeeR/WAC-on-DC-ADCredSSP) → A small workaround for running Windows Admin Center on a DC
+- 🚀 [Win11-AutoDeploy-Local](https://github.com/SpyKeeR/Win11-AutoDeploy-Local) → Local automated Windows 11 deployment solution without distributed infrastructure
 
 ## 📫 Contact me  
 
