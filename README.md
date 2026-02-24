@@ -20,8 +20,8 @@ Après une première carrière dans un autre domaine, j'ai décidé de transform
 
 ## 📂 Mes dépôts principaux  
 
-- 📚 [PrepaCertifs](https://github.com/SpyKeeR/PrepaCertifs) → Environnements de préparation aux certifications IT (LPI, Cisco) avec QCM corrigés et cartes Anki
-- 📚 [PrepaExamTSSR](https://github.com/SpyKeeR/PrepaExamTSSR) → Préparation complète TSSR - 9 CCPs, ~285 QCM, ~119 Questions, examens blancs et simulation orale
+- 📚 [PrepaCertifs](https://github.com/SpyKeeR/PrepaCertifs) → Environnements de préparation aux certifications IT
+- 📚 [PrepaExamTSSR](https://github.com/SpyKeeR/PrepaExamTSSR) → Environnement de préparation complète TSSR
 - 🎴 [Anki-Cards](https://github.com/SpyKeeR/Anki-Cards) → Cartes de révision Anki pour auto-apprentissage en systèmes, réseaux et outils IT
 - 🧪 [Labs-playground](https://github.com/SpyKeeR/Labs-playground) → Labs pratiques, exercices et solutions de challenges techniques
 - ⚙️ [Scripts](https://github.com/SpyKeeR/Scripts) → Collection de scripts personnels, d'entraînement et petits projets d'automatisation
@@ -29,8 +29,8 @@ Après une première carrière dans un autre domaine, j'ai décidé de transform
 - 🔧 [Config-files](https://github.com/SpyKeeR/Config-files) → Fichiers de configuration de référence, exemples et options pour divers services et outils
 - 📚 [Knowledge-base](https://github.com/SpyKeeR/Knowledge-base) → Notes d'étude personnelles et références techniques structurées
 - 📝 [Cheatsheets](https://github.com/SpyKeeR/Cheatsheets) → Aides-mémoire condensés, commandes et références rapides
-- 🚀 [Win11-AutoDeploy-Local](https://github.com/SpyKeeR/Win11-AutoDeploy-Local) → Solution complète de déploiement automatisé Windows 11 sans infrastructure distribuée
-- 🔌 [assetscleaner](https://github.com/SpyKeeR/assetscleaner) → Plugin GLPI qui nettoie automatiquement les actifs obsolètes (imprimantes, équipements réseau)
+- 🚀 [Win11-AutoDeploy-Local](https://github.com/SpyKeeR/Win11-AutoDeploy-Local) → Solution complète de déploiement automatisé Win11 sans infra. distribuée
+- 🔌 [assetscleaner](https://github.com/SpyKeeR/assetscleaner) → Plugin GLPI qui nettoie automatiquement les actifs obsolètes
 - 🖨️ [snmptoneralerts](https://github.com/SpyKeeR/snmptoneralerts) → Surveillance automatique des niveaux de toner via SNMP pour GLPI avec alertes progressives
 - 🖥️ [rcbuttons](https://github.com/SpyKeeR/rcbuttons) → Boutons d'assistance à distance dans les fiches GLPI (support MSRA & Dameware)
 - 🖥️ [WAC-on-DC-ADCredSSP](https://github.com/SpyKeeR/WAC-on-DC-ADCredSSP) → Workaround pour exécuter Windows Admin Center sur des contrôleurs de domaine avec CredSSP
