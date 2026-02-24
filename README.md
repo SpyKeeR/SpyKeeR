@@ -20,15 +20,20 @@ Après une première carrière dans un autre domaine, j'ai décidé de transform
 
 ## 📂 Mes dépôts principaux  
 
-- 🧪 [Labs-playground](https://github.com/SpyKeeR/Labs-playground) → Labs, exercices et challenges  
-- ⚙️ [Scripts](https://github.com/SpyKeeR/Scripts) → Scripts personnels et d’entraînement  
-- 📑 [Deliverables](https://github.com/SpyKeeR/Deliverables) → Docs, procédures et présentations de projets  
-- 🔧 [Config-files](https://github.com/SpyKeeR/Config-files) → Fichiers de configuration et exemples  
-- 📚 [Knowledge-base](https://github.com/SpyKeeR/Knowledge-base) → Notes et références techniques  
-- 📝 [Cheatsheets](https://github.com/SpyKeeR/Cheatsheets) → Aides-mémoire, commandes rapides
-- 🃏 [Anki-Cards](https://github.com/SpyKeeR/Anki-Cards) → Cartes de révision Anki issues de diverses sources
-- 🖥️ [WAC-on-DC-AD CredSSP](https://github.com/SpyKeeR/WAC-on-DC-ADCredSSP) → Un petit Workaround sur Windows Admin Center installé sur un DC
-- 🚀 [Win11-AutoDeploy-Local](https://github.com/SpyKeeR/Win11-AutoDeploy-Local) → Solution de déploiement automatisé Windows 11 local sans infrastructure distribuée
+- 📚 [PrepaCertifs](https://github.com/SpyKeeR/PrepaCertifs) → Environnements de préparation aux certifications IT (LPI, Cisco) avec QCM corrigés et cartes Anki
+- 📚 [PrepaExamTSSR](https://github.com/SpyKeeR/PrepaExamTSSR) → Préparation complète TSSR - 9 CCPs, ~285 QCM, ~119 Questions, examens blancs et simulation orale
+- 🎴 [Anki-Cards](https://github.com/SpyKeeR/Anki-Cards) → Cartes de révision Anki pour auto-apprentissage en systèmes, réseaux et outils IT
+- 🧪 [Labs-playground](https://github.com/SpyKeeR/Labs-playground) → Labs pratiques, exercices et solutions de challenges techniques
+- ⚙️ [Scripts](https://github.com/SpyKeeR/Scripts) → Collection de scripts personnels, d'entraînement et petits projets d'automatisation
+- 📑 [Deliverables](https://github.com/SpyKeeR/Deliverables) → Documentation, procédures, présentations et rapports de projets
+- 🔧 [Config-files](https://github.com/SpyKeeR/Config-files) → Fichiers de configuration de référence, exemples et options pour divers services et outils
+- 📚 [Knowledge-base](https://github.com/SpyKeeR/Knowledge-base) → Notes d'étude personnelles et références techniques structurées
+- 📝 [Cheatsheets](https://github.com/SpyKeeR/Cheatsheets) → Aides-mémoire condensés, commandes et références rapides
+- 🚀 [Win11-AutoDeploy-Local](https://github.com/SpyKeeR/Win11-AutoDeploy-Local) → Solution complète de déploiement automatisé Windows 11 sans infrastructure distribuée
+- 🔌 [assetscleaner](https://github.com/SpyKeeR/assetscleaner) → Plugin GLPI qui nettoie automatiquement les actifs obsolètes (imprimantes, équipements réseau)
+- 🖨️ [snmptoneralerts](https://github.com/SpyKeeR/snmptoneralerts) → Surveillance automatique des niveaux de toner via SNMP pour GLPI avec alertes progressives
+- 🖥️ [rcbuttons](https://github.com/SpyKeeR/rcbuttons) → Boutons d'assistance à distance dans les fiches GLPI (support MSRA & Dameware)
+- 🖥️ [WAC-on-DC-ADCredSSP](https://github.com/SpyKeeR/WAC-on-DC-ADCredSSP) → Workaround pour exécuter Windows Admin Center sur des contrôleurs de domaine avec CredSSP
 
 ## 📫 Me contacter  
 
@@ -64,15 +69,20 @@ After a first career in another field, I decided to turn this passion into a pro
 
 ## 📂 Main repositories  
 
-- 🧪 [Labs-playground](https://github.com/SpyKeeR/Labs-playground) → Labs, exercises & challenges  
-- ⚙️ [Scripts](https://github.com/SpyKeeR/Scripts) → Personal & training scripts  
-- 📑 [Deliverables](https://github.com/SpyKeeR/Deliverables) → Docs, procedures & project presentations  
-- 🔧 [Config-files](https://github.com/SpyKeeR/Config-files) → Configuration files & examples  
-- 📚 [Knowledge-base](https://github.com/SpyKeeR/Knowledge-base) → Notes & technical references
-- 📝 [Cheatsheets](https://github.com/SpyKeeR/Cheatsheets) → Quick references & command reminders
-- 🃏 [Anki-Cards](https://github.com/SpyKeeR/Anki-Cards) → Anki flashcards that i use from various sources
-- 🖥️ [WAC-on-DC-ADCredSSP](https://github.com/SpyKeeR/WAC-on-DC-ADCredSSP) → A small workaround for running Windows Admin Center on a DC
-- 🚀 [Win11-AutoDeploy-Local](https://github.com/SpyKeeR/Win11-AutoDeploy-Local) → Local automated Windows 11 deployment solution without distributed infrastructure
+- 📚 [PrepaCertifs](https://github.com/SpyKeeR/PrepaCertifs) → IT certification preparation environments (LPI, Cisco) with corrected MCQs and Anki cards
+- 📚 [PrepaExamTSSR](https://github.com/SpyKeeR/PrepaExamTSSR) → Complete TSSR preparation - 9 CCPs, ~285 MCQs, ~119 Questions, mock exams and oral simulation
+- 🎴 [Anki-Cards](https://github.com/SpyKeeR/Anki-Cards) → Anki decks for self-learning in systems, networking, and IT tools from various sources
+- 🧪 [Labs-playground](https://github.com/SpyKeeR/Labs-playground) → Hands-on labs, exercises, and challenge solutions
+- ⚙️ [Scripts](https://github.com/SpyKeeR/Scripts) → Collection of personal and training scripts, experiments, and small automation projects
+- 📑 [Deliverables](https://github.com/SpyKeeR/Deliverables) → Documentation, procedures, project presentations, and reports
+- 🔧 [Config-files](https://github.com/SpyKeeR/Config-files) → Reference repository of configuration files, examples, and options for various services and tools
+- 📚 [Knowledge-base](https://github.com/SpyKeeR/Knowledge-base) → Personal study notes and technical references, serving as a structured knowledge base
+- 📝 [Cheatsheets](https://github.com/SpyKeeR/Cheatsheets) → Condensed reminders, commands, and quick references
+- 🚀 [Win11-AutoDeploy-Local](https://github.com/SpyKeeR/Win11-AutoDeploy-Local) → Complete automated Windows 11 deployment solution without distributed infrastructure
+- 🔌 [assetscleaner](https://github.com/SpyKeeR/assetscleaner) → GLPI plugin that automatically cleans obsolete assets (printers, network equipment, IP phones)
+- 🖨️ [snmptoneralerts](https://github.com/SpyKeeR/snmptoneralerts) → Automatic toner level monitoring via SNMP for GLPI with progressive alerts
+- 🖥️ [rcbuttons](https://github.com/SpyKeeR/rcbuttons) → Remote assistance buttons directly in GLPI computer records (supports MSRA & Dameware)
+- 🖥️ [WAC-on-DC-ADCredSSP](https://github.com/SpyKeeR/WAC-on-DC-ADCredSSP) → Workaround for running Windows Admin Center on Domain Controllers with CredSSP
 
 ## 📫 Contact me  
 
